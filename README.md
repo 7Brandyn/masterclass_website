@@ -1,2 +1,2 @@
 # masterclass_website
-A redesign task from Masterclass
+A redesign task from Masterclass.
