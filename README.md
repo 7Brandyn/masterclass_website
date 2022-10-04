@@ -1,5 +1,5 @@
 # masterclass_website
-<h3>A redesign task from Masterclass.</h3> 
+A redesign task from Masterclass.
 <br> 
 ⚡Check out the live site: [Click Here][website]!
 
